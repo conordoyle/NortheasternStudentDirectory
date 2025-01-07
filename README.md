@@ -1,1 +1,3 @@
-# Northeastern-Student-Directory
+# NortheasternStudentDirectory
+
+Northeastern student directory application using Python and SQL
